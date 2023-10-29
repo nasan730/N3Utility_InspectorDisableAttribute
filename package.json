@@ -3,11 +3,12 @@
   "version": "1.0.0",
 
   "displayName": "InspectorDisableAttribute",
-  "description": "Test",
+  "description": "条件によってUnityのInspectorで編集不可にさせる属性",
   "unity": "2018.3",
 
   "author": {
-    "name": "Nasan"
+    "name": "Nasan",
+    "url": "https://github.com/nasan730/N3Utility_InspectorDisableAttribute.git"
   },
 
   "keywords": [
