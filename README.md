@@ -8,6 +8,13 @@
         - インスペクターから隠したい変数の場合は[`HideInInspector`](https://docs.unity3d.com/ScriptReference/HideInInspector.html)を付与した変数を使用してください
     - `nameof`を使用して変数を渡してください
 
+## Introduction
+1. URLをコピー<br>```https://github.com/nasan730/N3Utility_InspectorDisableAttribute.git```<br>
+2. Window → PackageManagerでPackageManagerをクリック
+3. `+`アイコン → Add package from git URL... をクリック
+4. URLをペースト<br>
+> UnityDocumentation : [Install a package from a Git URL](https://docs.unity3d.com/ja/2022.3/Manual/upm-ui-giturl.html)
+
 ## Example
 ### boolField
 | 引数名 | 説明 |
